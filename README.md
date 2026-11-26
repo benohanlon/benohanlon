@@ -2,11 +2,15 @@
 
 I solve **growth, adoption and distribution** problems for open and decentralised technology by building ecosystems and leading **developer marketing**.
 
-I built the ecosystem for an open financial operating system that went from testnet to #3 by market cap. We built what was arguably the world’s largest DAO by population, participation and treasury size.
+I took a cryptocurrency from testnet to #3 by market cap. I grew the validator network and brought infrastructure engineers and developers together to build on Cardano.
+
+We moved Cardano’s governance onchain. I led Input Output’s ecosystem work on the constitution, convened workshops and built the DRep Forum a year before it was needed. We built what was arguably the world’s largest DAO by population, participation and treasury size. The community took stewardship of the network’s treasury.
 
 **We built our customer, who then chose to pay us. Proving the commercial value in open source.**
 
-I led the continuity campaign that secured ₳195 million across five proposals, including funding for research and engineering. I then launched stablecoin infrastructure and real-world assets backed by private credit on the open financial operating system we built.
+I led the continuity campaign. The community approved about ₳195 million across five proposals, including ₳123.7 million for research and core engineering.
+
+I then launched stablecoin infrastructure and real-world assets backed by private credit on the open financial operating system we built. At RealFi, I led community and partner activation for the mainnet launch. I designed and launched the Stake Pool Operator Accelerator to bring in early users through the validator network we built.
 
 [![Open Ben’s Choose Your Own Adventure — Journey to the Centre of the Problem](https://benohanlon.md/assets/adventure-square-safe-social.jpg)](https://benohanlon.md/)
 
