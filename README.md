@@ -45,7 +45,7 @@ I’m writing *Survival of the Sovereign*, a series about why open technology wi
 **Read in order**
 
 - **Prelude** · [Money is a coordination technology that has been captured](https://ecosystemoperator.substack.com/p/money-is-a-coordination-technology). How control over money shapes what a society can fund and build.
-- **Act I** · [Dear ANON, are you joining the permanent underclass?](https://ecosystemoperator.substack.com/p/dear-anon-are-you-joining-the-permanent). What AI abundance means when a few owners control access and keep the gains.
+- **Act I** · [Dear ANON, are you joining the permanent underclass?](https://ecosystemoperator.substack.com/p/dear-anon-are-you-joining-the-permanent) What AI abundance means when a few owners control access and keep the gains.
 - **Act II** · [We shape our tools, and thereafter our tools shape us](https://ecosystemoperator.substack.com/p/we-shape-our-tools-and-thereafter). What print and steam teach us about how technology reshapes society.
 - **Act III** · [The Event Horizon](https://ecosystemoperator.substack.com/p/the-event-horizon). How the race for AI is spurring a distributed response by people building open alternatives.
 
