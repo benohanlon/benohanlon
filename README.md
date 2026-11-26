@@ -16,11 +16,11 @@ I then launched stablecoin infrastructure and real-world assets backed by privat
 
 ### Choose Your Own Adventure
 
-I built [benohanlon.md](https://benohanlon.md/) as a `profile.md`, a Markdown file you can give to your AI to explore my work. Ask your own question or run it as a Choose Your Own Adventure. You decide what to explore and in what order.
+I built this so you can [create your own `profile.md`](https://github.com/benohanlon/profile-md-template) and use [benohanlon.md](https://benohanlon.md/) as a worked example. A `profile.md` is a Markdown file people can give to their AI to explore your work. They bring their own questions and decide what to explore and in what order.
 
 [![Open Ben’s Choose Your Own Adventure — Journey to the Centre of the Problem](https://benohanlon.md/assets/adventure-square-safe-social.jpg)](https://benohanlon.md/)
 
-**Ask your AI about my work.** Visit [benohanlon.md](https://benohanlon.md/) and run a choose-your-own-adventure from the Markdown. Give me the choices and I’ll reply. You can [create your own profile.md](https://github.com/benohanlon/profile-md-template) and give a prospective client or employer something they can explore for themselves.
+**Ask your AI about my work.** Visit [benohanlon.md](https://benohanlon.md/) and run a choose-your-own-adventure from the Markdown. Give me the choices and I’ll reply.
 
 ---
 
