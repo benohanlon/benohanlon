@@ -42,6 +42,13 @@ The **profile packs** set out what each role owns and how it works. Start with o
 
 I’m writing *Survival of the Sovereign*, a series about why open technology will win out and why the intelligence counter-revolution will be distributed and decentralised.
 
+**Read in order**
+
+- **Prelude** · [Money is a coordination technology that has been captured](https://ecosystemoperator.substack.com/p/money-is-a-coordination-technology). How control over money shapes what a society can fund and build.
+- **Act I** · [Dear ANON, are you joining the permanent underclass?](https://ecosystemoperator.substack.com/p/dear-anon-are-you-joining-the-permanent). What AI abundance means when a few owners control access and keep the gains.
+- **Act II** · [We shape our tools, and thereafter our tools shape us](https://ecosystemoperator.substack.com/p/we-shape-our-tools-and-thereafter). What print and steam teach us about how technology reshapes society.
+- **Act III** · [The Event Horizon](https://ecosystemoperator.substack.com/p/the-event-horizon). How the race for AI is spurring a distributed response by people building open alternatives.
+
 [![Animated artwork from The Event Horizon, Act III of Survival of the Sovereign](https://raw.githubusercontent.com/benohanlon/ecosystem-operator-collective-public/main/writing/assets/the-event-horizon/01.gif)](https://ecosystemoperator.substack.com/p/the-event-horizon)
 
-[Read the series](https://ecosystemoperator.substack.com/p/survival-of-the-sovereign-series) · [Subscribe to The Ecosystem Operator](https://ecosystemoperator.substack.com/subscribe) for my writing and updates.
+[Full series guide](https://ecosystemoperator.substack.com/p/survival-of-the-sovereign-series) · [Subscribe to The Ecosystem Operator](https://ecosystemoperator.substack.com/subscribe) for my writing and updates.
