@@ -12,7 +12,7 @@ I led the continuity campaign. The community approved about ₳195 million acros
 
 I then launched stablecoin infrastructure and real-world assets backed by private credit on the open financial operating system we built. At RealFi, I led community and partner activation for the mainnet launch. I designed and launched the Stake Pool Operator Accelerator to bring in early users through the validator network we built.
 
-## Core projects
+## Projects
 
 ### Choose Your Own Adventure
 
