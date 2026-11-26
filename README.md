@@ -28,9 +28,13 @@ I built this so you can create your own `profile.md`, using `benohanlon.md` as a
 
 ### Sovereign Harness
 
-I’m building [Sovereign Harness](https://sovereignharness.io/) so you can run your own AI team and take its working memory with you when you switch providers.
+[![Sovereign Harness banner with a teal eye and the words ‘There’s something in you that the world needs’](https://raw.githubusercontent.com/benohanlon/ooda-harness/main/assets/sovereign-ooda-cover.jpg)](https://sovereignharness.io/)
 
-The **profile packs** set out what each role owns and how it works. Start with one role. Add others as the work calls for them.
+I’m building Sovereign Harness, a personal AI operating system and second brain. Run a team of specialist agents and keep your context, prompts, workflows and working memory in a private repository you control. You can switch models without rebuilding how you work.
+
+The example **profile packs** show how to assemble that team. Each pairs a public OODA role with a private sleeve for your goals, knowledge and ways of working. Start with one role. Add others as the work calls for them.
+
+**[Create your own private harness](https://github.com/benohanlon/sovereign-harness-template)**. Choose **Use this template** and set your copy to **Private**.
 
 [![Six rotating Sovereign Harness profile cards](https://raw.githubusercontent.com/benohanlon/ooda-harness/main/assets/roles/profile-packs.gif)](https://sovereignharness.io/#profile-packs)
 
