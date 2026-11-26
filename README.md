@@ -20,6 +20,8 @@ I then launched stablecoin infrastructure and real-world assets backed by privat
 
 **Ask your AI about my work.** Visit [benohanlon.md](https://benohanlon.md/) and run a choose-your-own-adventure from the Markdown. Give me the choices and I’ll reply. You can [create your own profile.md](https://github.com/benohanlon/profile-md-template) and give a prospective client or employer something they can explore for themselves.
 
+---
+
 ### Sovereign Harness
 
 I’m building [Sovereign Harness](https://sovereignharness.io/) so you can run your own AI team and take its working memory with you when you switch providers.
@@ -29,6 +31,8 @@ The **profile packs** set out what each role owns and how it works. Start with o
 [![Six rotating Sovereign Harness profile cards](https://raw.githubusercontent.com/benohanlon/ooda-harness/main/assets/roles/profile-packs.gif)](https://sovereignharness.io/#profile-packs)
 
 [Explore the shared OODA Harness](https://github.com/benohanlon/ooda-harness).
+
+---
 
 ### Survival of the Sovereign
 
