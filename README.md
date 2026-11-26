@@ -12,12 +12,26 @@ I led the continuity campaign. The community approved about ₳195 million acros
 
 I then launched stablecoin infrastructure and real-world assets backed by private credit on the open financial operating system we built. At RealFi, I led community and partner activation for the mainnet launch. I designed and launched the Stake Pool Operator Accelerator to bring in early users through the validator network we built.
 
+## Core projects
+
+### Choose Your Own Adventure
+
 [![Open Ben’s Choose Your Own Adventure — Journey to the Centre of the Problem](https://benohanlon.md/assets/adventure-square-safe-social.jpg)](https://benohanlon.md/)
 
 **Ask your AI about my work.** Visit [benohanlon.md](https://benohanlon.md/) and run a choose-your-own-adventure from the Markdown. Give me the choices and I’ll reply. You can [create your own profile.md](https://github.com/benohanlon/profile-md-template) and give a prospective client or employer something they can explore for themselves.
 
+### Sovereign Harness
+
+I’m building [Sovereign Harness](https://sovereignharness.io/) so you can run your own AI team and take its working memory with you when you switch providers.
+
+The **profile packs** set out what each role owns and how it works. Start with one role. Add others as the work calls for them.
+
 [![Six rotating Sovereign Harness profile cards](https://raw.githubusercontent.com/benohanlon/ooda-harness/main/assets/roles/profile-packs.gif)](https://sovereignharness.io/#profile-packs)
 
-Start with one role. Add others as the work calls for them. I’m building [Sovereign Harness](https://sovereignharness.io/) so you can take your agentic team and its working memory with you when you switch AI providers. [Explore the shared OODA Harness](https://github.com/benohanlon/ooda-harness).
+[Explore the shared OODA Harness](https://github.com/benohanlon/ooda-harness).
 
-[Subscribe to The Ecosystem Operator](https://ecosystemoperator.substack.com/subscribe) for my writing and updates.
+### Survival of the Sovereign
+
+I’m writing *Survival of the Sovereign*, a series about why open technology will win out and why the intelligence counter-revolution will be distributed and decentralised.
+
+[Read the series](https://ecosystemoperator.substack.com/p/survival-of-the-sovereign-series) · [Subscribe to The Ecosystem Operator](https://ecosystemoperator.substack.com/subscribe) for my writing and updates.
