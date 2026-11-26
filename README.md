@@ -49,6 +49,8 @@ I’m writing *Survival of the Sovereign*, a series about why open technology wi
 - **Act II** · [We shape our tools, and thereafter our tools shape us](https://ecosystemoperator.substack.com/p/we-shape-our-tools-and-thereafter). What print and steam teach us about how technology reshapes society.
 - **Act III** · [The Event Horizon](https://ecosystemoperator.substack.com/p/the-event-horizon). How the race for AI is spurring a distributed response by people building open alternatives.
 
+*Acts IV and V are forthcoming.*
+
 [![Animated artwork from The Event Horizon, Act III of Survival of the Sovereign](https://raw.githubusercontent.com/benohanlon/ecosystem-operator-collective-public/main/writing/assets/the-event-horizon/01.gif)](https://ecosystemoperator.substack.com/p/the-event-horizon)
 
 [Full series guide](https://ecosystemoperator.substack.com/p/survival-of-the-sovereign-series) · [Subscribe to The Ecosystem Operator](https://ecosystemoperator.substack.com/subscribe) for my writing and updates.
