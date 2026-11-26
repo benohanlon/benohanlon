@@ -16,7 +16,9 @@ I then launched stablecoin infrastructure and real-world assets backed by privat
 
 ### Choose Your Own Adventure
 
-I built this so you can [create your own `profile.md`](https://github.com/benohanlon/profile-md-template) and use [benohanlon.md](https://benohanlon.md/) as a worked example. A `profile.md` is a Markdown file people can give to their AI to explore your work. They bring their own questions and decide what to explore and in what order.
+I built this so you can create your own `profile.md`, using `benohanlon.md` as a worked example. A `profile.md` is a Markdown file people can give to their AI to explore your work. They bring their own questions and decide what to explore and in what order.
+
+**[Create your own profile.md](https://github.com/benohanlon/profile-md-template#make-your-own)** · [Try my worked example](https://benohanlon.md/)
 
 [![Open Ben’s Choose Your Own Adventure — Journey to the Centre of the Problem](https://benohanlon.md/assets/adventure-square-safe-social.jpg)](https://benohanlon.md/)
 
@@ -39,5 +41,7 @@ The **profile packs** set out what each role owns and how it works. Start with o
 ### Survival of the Sovereign
 
 I’m writing *Survival of the Sovereign*, a series about why open technology will win out and why the intelligence counter-revolution will be distributed and decentralised.
+
+[![Animated artwork from The Event Horizon, Act III of Survival of the Sovereign](https://raw.githubusercontent.com/benohanlon/ecosystem-operator-collective-public/main/writing/assets/the-event-horizon/01.gif)](https://ecosystemoperator.substack.com/p/the-event-horizon)
 
 [Read the series](https://ecosystemoperator.substack.com/p/survival-of-the-sovereign-series) · [Subscribe to The Ecosystem Operator](https://ecosystemoperator.substack.com/subscribe) for my writing and updates.
