@@ -2,7 +2,9 @@
 
 I solve **growth, adoption and distribution** problems for open and decentralised technology by building ecosystems and leading **developer marketing**.
 
-I built the ecosystem for an open financial operating system that went from testnet to #3 by market cap. We built what was arguably the world’s largest DAO by population, participation and treasury size. **We built our customer, who then chose to pay us.**
+I built the ecosystem for an open financial operating system that went from testnet to #3 by market cap. We built what was arguably the world’s largest DAO by population, participation and treasury size.
+
+**We built our customer, who then chose to pay us. Proving the commercial value in open source.**
 
 I led the continuity campaign that secured ₳195 million across five proposals, including funding for research and engineering. I then launched stablecoin infrastructure and real-world assets backed by private credit on the open financial operating system we built.
 
